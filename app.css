@@ -1,0 +1,14 @@
+/* @import url('https://codepen.io/web-dot-dev/pen/abpoXGZ.css'); */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  width: 100px;
+  border: 10px solid;
+  padding: 20px;
+  font-size: 3rem;
+  font-weight: 700;
+}
