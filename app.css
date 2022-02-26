@@ -2,13 +2,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 p {
   width: 100px;
+  height: 100px;
   border: 10px solid;
   padding: 20px;
-  font-size: 3rem;
+  font-size: 100px;
   font-weight: 700;
+  text-transform: uppercase;
 }
